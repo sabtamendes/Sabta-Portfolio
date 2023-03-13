@@ -1,0 +1,6 @@
+User-agent: *
+X-Robots-Tag: noindex, nofollow
+
+Disallow: /admin/
+Disallow: /private/
+
